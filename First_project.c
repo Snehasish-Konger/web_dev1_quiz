@@ -6,12 +6,12 @@
 
 
 
-
+//You can uncomment any funtion to run
 void addition();
 void subtraction();
-void multiplication();
-void division();                               // Function prototype declaration
-void modulus();
+//void multiplication();
+//void division();                               // Function prototype declaration
+//void modulus();
 void power();
 int factorial();
 void calculator_operations();
